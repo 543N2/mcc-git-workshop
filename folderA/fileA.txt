@@ -1,0 +1,11 @@
+# ------------------------------------------------
+#
+# FILE A
+#
+# ------------------------------------------------
+
+This is fileA, a plain text file.
+We are on May 5th 2022 and it is 11:00 AM now.
+This is the version number 1.
+
+File created by Juan.
